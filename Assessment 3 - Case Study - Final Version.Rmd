@@ -41,7 +41,7 @@ theme_set(theme_minimal(base_size = 16))
 ## - Midcourt performance
 ## - Discipline (penalties & fouls)
 ##
-## ________________________________________________________________________________
+##
 ```{r}
 # Load up the data set 
 SuperNetball_data <- read_csv("Dataset3_Assessment3.csv", show_col_types = FALSE)
